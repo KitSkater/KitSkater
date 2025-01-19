@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KitSkater
 - 👀 I’m interested in ... computer science and cyber security
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... pen testin
 - 📫 How to reach me ... discord @kitskater
-- 😄 Pronouns: ... none 
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... why are you reading this
 
 <!---
 KitSkater/KitSkater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
