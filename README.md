@@ -13,7 +13,7 @@ Preparing for red teaming by THM  to validate my skills.
 Collaborating with other learners and professionals in tech communities.
 ❓ Fun Q&A
 Q: What got me into cybersecurity?
-A: my fendes and realizing the real-world importance of securing information systems.
+A: my friend and realizing the real-world importance of securing information systems.
 
 Q: What’s my favorite programming language?
 A: Definitely Python! It’s versatile, beginner-friendly, and widely used in cybersecurity.
