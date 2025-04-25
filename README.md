@@ -20,7 +20,7 @@ A: Definitely Python! It’s versatile, beginner-friendly, and widely used in cy
 
 Q: What’s one fun fact about me?
 A: I love Hatsune miku like a lot 
-b i have a Hatsune Miku phuch 
+b i have a Hatsune Miku plush
 
 Q: What’s my dream role?
 A: Working as a penetration tester or security analyst at a forward-thinking company.
