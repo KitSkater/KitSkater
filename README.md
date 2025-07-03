@@ -37,6 +37,9 @@ Developing lightweight firewall and network monitoring tools for personal homela
 Documenting and sharing learning resources related to blue team cybersecurity.
 Collaborating on community projects (some private) to improve practical skills.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KitSkater&show_icons=true&theme=radical)
+
+
 Let's Connect
 I prefer to keep communication informal and quick:
 
